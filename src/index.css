@@ -279,18 +279,12 @@ margin: 10px;
   }
 
 
-.s3-div1{
-  padding-top: 10px;
-  height:20% ;
-  display:flex ;
-  margin-bottom:20px ;
-}
-    
     .s3-div1{
-      height: 20%;
-      display: flex;
-      margin-bottom: 20px;
-    }
+      padding-top:10px;
+      display:flex;
+      height:20%;
+      margin-bottom:20px;
+}
     .s3-div2{
       height:40%;
     }
