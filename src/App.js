@@ -6,6 +6,7 @@ function App() {
       <div className="section-1">
         <div className="section-1-header">
           <h4>Bomb Finance Summary</h4>
+    <br/>
         </div>
         <hr />
         <div className="container-section-1">
