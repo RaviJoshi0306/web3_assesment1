@@ -67,6 +67,7 @@ function App() {
 
           <div className="section-2-header">
             <h4>Read investment strategy</h4>
+<br/>
           </div>
 
           <div className="subdiv-1">
